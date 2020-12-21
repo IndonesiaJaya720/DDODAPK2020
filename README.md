@@ -41,4 +41,10 @@
 # [ pkg install Bash -y ]
 # [ git clone https://github.com/IndonesiaJaya720/DDODAPK2020 ]
 # [ cd DDODAPK2020 ]
-# [ 
+# [ sh InstallBahan.sh ]
+# [ sh DDOS.sh ]
+
+# Sekian Dari Saya
+# Mr_R5B
+# ^_^
+# EXIT
